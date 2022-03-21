@@ -1,3 +1,2 @@
 # MyBlog Comments
-- Ich habe Untterance für mein Blog benutzt. 
-- Hier werde ich nur die Comments handeln
+[dainpark-blog](http://www.dainpark-blog.de/)
